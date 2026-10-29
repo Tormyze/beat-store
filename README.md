@@ -3,7 +3,7 @@ Projeto de uma **Landing Page** moderna para showcase de uma **Beat Store** (Loj
 
 <img width="1859" height="889" alt="print-beat-store" src="https://github.com/user-attachments/assets/36c3e7dd-ac10-4aab-87d0-a563c04f3928" />
 
-#### 🔗 Acesse o projeto online: [Beat Store](https://tormyze.github.io/Beat-Store/)
+#### 🔗 Acesse o projeto online: [Beat Store](https://tormyze.github.io/beat-store/)
 ---
 
 ## 🚀 Sobre o Projeto
